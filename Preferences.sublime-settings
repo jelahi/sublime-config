@@ -7,7 +7,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Colorsublime-Themes/Monokai.tmTheme",
+	"color_scheme": "Packages/User/Themes/Monokai.tmTheme",
 	"default_line_ending": "unix",
 	"draw_indent_guides": true,
 	"draw_minimap_border": true,
