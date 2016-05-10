@@ -1,1 +1,8 @@
+# Ignore everything in the root except the "Themes" directory.
+/*
+!.gitignore
+!*.sublime-settings
+
+!Themes/
+!Themes/*
 
