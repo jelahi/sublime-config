@@ -1,0 +1,56 @@
+{
+	"binary_file_patterns":
+	[
+		"*.pdf",
+		"*.vsdx",
+		"*.docx"
+	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Colorsublime-Themes/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"draw_indent_guides": true,
+	"draw_minimap_border": true,
+	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		".svnignore",
+		".gitignore"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"externals"
+	],
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_face": "Meslo LG L DZ for Powerline",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"open_files_in_new_window": false,
+	"preview_on_click": true,
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Light 3.sublime-theme",
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}
